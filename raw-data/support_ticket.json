@@ -1,0 +1,29 @@
+[
+  {
+    "ticket_id": "TK-20261109-001",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "create_at": "2026-11-09T17:33:52.614783+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-002",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "create_at": "2026-11-09T17:36:06.094986+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-003",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "xe VF 8 của tôi bị lỗi hệ thống ADAS",
+    "priority": "high",
+    "status": "open",
+    "create_at": "2026-11-09T17:36:06.108441+07:00",
+    "category": "general"
+  }
+]
